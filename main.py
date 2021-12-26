@@ -14,11 +14,11 @@ driver.implicitly_wait(5)
 try:
     username = driver.find_element(By.NAME, "username")
     # Write your username in place of ****
-    username.send_keys("8401530399")
+    username.send_keys("****")
 
     password = driver.find_element(By.NAME, "password")
     # Write your password in place of ****
-    password.send_keys("$Saurabh5499")
+    password.send_keys("****")
     password.send_keys(Keys.ENTER)
 
 except:
