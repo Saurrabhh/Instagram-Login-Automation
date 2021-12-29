@@ -4,7 +4,7 @@
  
  TO INSTALL SELENIUM , first we need oue pip(python package install) working
  
- 1. To install pip(usually it comes installed with python installer)-
+ 1. To check if pip is installed(usually it comes installed with python installer)-
       1. Open Command prompt window
       2. Write the following code- 
          pip
