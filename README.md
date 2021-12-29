@@ -2,7 +2,7 @@
  We will be using this program for automating Instagram to login .i.e We're creating a bot which takes our userID and password as input and login on instagram by itself.
  To perform this login automation we will need framework named Selenium (Selenium is an open-source tool that automates web browsers).
  
- TO INSTALL SELENIUM , first we need oue pip(python package install) working
+ TO INSTALL SELENIUM , first we need our pip(python package install) working
  
  1. To check if pip is installed(usually it comes installed with python installer)-
       1. Open Command prompt window
