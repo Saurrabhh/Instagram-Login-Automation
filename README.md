@@ -14,6 +14,7 @@
         
  3. Now we need to install the chrome web driver (we're using google chrome as our interface), To download the Chrome web driver
     go to this website and download chrome web driver for your version of google chrome (https://sites.google.com/a/chromium.org/chromedriver/downloads)
+    
     NOTE - Check your version of google chrome on Help section before downloading chrome web driver
     
     Now once you've downloaded the chrome web driver extract the file named "chromedriver" move it to the directory (C:\Program Files (x86))
