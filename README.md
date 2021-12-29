@@ -6,10 +6,10 @@
  
  1. To check if pip is installed(usually it comes installed with python installer)-
       1. Open Command prompt window
-      2. Write the following code- 
+      2. Write the following code:  
          pip
          
- 2. To install selenium,write the following code on command prompt window
+ 2. To install selenium,write the following code on command prompt window: 
         pip install selenium
         
  3. Now we need to install the chrome web driver (we're using google chrome as our interface), To download the Chrome web driver
